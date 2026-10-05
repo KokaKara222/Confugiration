@@ -1,5 +1,5 @@
 ls
 cd /home/user
 ls -la
-unknown_command
+ggg
 exit
